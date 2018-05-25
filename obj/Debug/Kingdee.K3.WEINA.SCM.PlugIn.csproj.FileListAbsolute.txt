@@ -1,0 +1,12 @@
+F:\KingdeeK3Cloud\WebSite\Bin\Kingdee.K3.WEINA.SCM.PlugIn.dll
+F:\KingdeeK3Cloud\WebSite\Bin\Kingdee.K3.WEINA.SCM.PlugIn.pdb
+E:\Projects\Kingdee.K3.WEINA.SCM.PlugIn\Kingdee.K3.WEINA.SCM.PlugIn\obj\Debug\Kingdee.K3.WEINA.SCM.PlugIn.dll
+E:\Projects\Kingdee.K3.WEINA.SCM.PlugIn\Kingdee.K3.WEINA.SCM.PlugIn\obj\Debug\Kingdee.K3.WEINA.SCM.PlugIn.pdb
+E:\Projects\Kingdee.K3.WEINA.SCM.PlugIn\Kingdee.K3.WEINA.SCM.PlugIn\obj\Debug\Kingdee.K3.WEINA.SCM.PlugIn.csprojResolveAssemblyReference.cache
+E:\Kingdee\K3Cloud\WebSite\Bin\Kingdee.K3.WEINA.SCM.PlugIn.dll
+E:\Kingdee\K3Cloud\WebSite\Bin\Kingdee.K3.WEINA.SCM.PlugIn.pdb
+C:\Program Files (x86)\Kingdee\K3Cloud\WebSite\Bin\Kingdee.K3.WEINA.SCM.PlugIn.dll
+C:\Program Files (x86)\Kingdee\K3Cloud\WebSite\Bin\Kingdee.K3.WEINA.SCM.PlugIn.pdb
+D:\C#Project\WEINA\2018\Kingdee.K3.WEINA.SCM.PlugIn\Kingdee.K3.WEINA.SCM.PlugIn\Kingdee.K3.WEINA.SCM.PlugIn\obj\Debug\Kingdee.K3.WEINA.SCM.PlugIn.dll
+D:\C#Project\WEINA\2018\Kingdee.K3.WEINA.SCM.PlugIn\Kingdee.K3.WEINA.SCM.PlugIn\Kingdee.K3.WEINA.SCM.PlugIn\obj\Debug\Kingdee.K3.WEINA.SCM.PlugIn.pdb
+D:\C#Project\WEINA\2018\Kingdee.K3.WEINA.SCM.PlugIn\Kingdee.K3.WEINA.SCM.PlugIn\Kingdee.K3.WEINA.SCM.PlugIn\obj\Debug\Kingdee.K3.WEINA.SCM.PlugIn.csprojResolveAssemblyReference.cache
